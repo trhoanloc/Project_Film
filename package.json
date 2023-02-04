@@ -1,0 +1,63 @@
+{
+  "name": "projectfilm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tslint": "^6.1.3",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "ansi-styles": "^3.2.1",
+    "balanced-match": "^1.0.2",
+    "brace-expansion": "^1.1.11",
+    "concat-map": "^0.0.1",
+    "color-convert": "^1.9.3",
+    "color-name": "^1.1.3",
+    "chalk": "^2.4.2",
+    "escape-string-regexp": "^1.0.5",
+    "diff": "^4.0.2",
+    "builtin-modules": "^1.1.1",
+    "function-bind": "^1.1.1",
+    "esprima": "^4.0.1",
+    "commander": "^2.20.3",
+    "has": "^1.0.3",
+    "inherits": "^2.0.4",
+    "fs.realpath": "^1.0.0",
+    "has-flag": "^3.0.0",
+    "js-tokens": "^4.0.0",
+    "glob": "^7.2.3",
+    "is-core-module": "^2.11.0",
+    "minimatch": "^3.1.2",
+    "js-yaml": "^3.14.1",
+    "inflight": "^1.0.6",
+    "minimist": "^1.2.7",
+    "once": "^1.4.0",
+    "mkdirp": "^0.5.6",
+    "path-is-absolute": "^1.0.1",
+    "path-parse": "^1.0.7",
+    "sprintf-js": "^1.0.3",
+    "semver": "^5.7.1",
+    "supports-color": "^5.5.0",
+    "supports-preserve-symlinks-flag": "^1.0.0",
+    "wrappy": "^1.0.2",
+    "resolve": "^1.22.1",
+    "tsutils": "^2.29.0",
+    "tslib": "^1.14.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trhoanloc/Project_Film.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trhoanloc/Project_Film/issues"
+  },
+  "homepage": "https://github.com/trhoanloc/Project_Film#readme",
+  "description": ""
+}
